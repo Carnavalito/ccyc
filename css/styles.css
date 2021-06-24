@@ -7375,6 +7375,7 @@ textarea.form-control-lg {
 
 .text-muted {
   color: #6c757d !important;
+  
 }
 
 .text-black-50 {
@@ -11328,4 +11329,14 @@ section#contact form#contactForm :-ms-input-placeholder {
 
 .contactoInfo{
   color: #c9511d;
+}
+
+.menuUl{
+  list-style:none;
+  color: #6c757d !important;
+}
+
+
+whatsImg{
+  border-radius: 50%;
 }
